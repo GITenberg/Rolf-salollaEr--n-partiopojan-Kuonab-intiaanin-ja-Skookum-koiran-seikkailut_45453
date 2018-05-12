@@ -1,0 +1,47 @@
+_repo: Rolf-salollaEr--n-partiopojan-Kuonab-intiaanin-ja-Skookum-koiran-seikkailut_45453
+_version: 0.1.0
+alternative_title: Rolf in the woods. Finnish
+contributor:
+  translator:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Inha, I. K. (Into Konrad)
+    - Nystrom, Into Konrad
+    - Nyström, Into Konrad
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton-Thompson, Ernest
+    - Seton, Wolf
+    - Seton-Thomson, Ernest
+    - Thompson-Seton, Ernest
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: ''
+gutenberg_issued: '2014-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45453'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Scouts (Reconnaissance) -- Fiction'
+- !lcsh 'Camping -- Fiction'
+- !lcsh 'Scouting (Reconnaissance) -- Fiction'
+title: 'Rolf salolla: Erään partiopojan, Kuonab intiaanin ja Skookum koiran seikkailut'
+url: http://www.gutenberg.org/ebooks/45453
